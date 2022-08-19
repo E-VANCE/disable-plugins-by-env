@@ -1,0 +1,14 @@
+{
+  "name": "e-vance/disable-plugins-by-env",
+  "description": "Simple environment plugin disabler for WordPress",
+  "homepage": "https://github.com/E-VANCE/disable-plugins-by-env",
+  "type": "wordpress-plugin",
+  "require": {
+    "php": ">=7.1"
+  },
+  "config": {
+    "optimize-autoloader": true,
+    "preferred-install": "dist",
+    "sort-packages": true
+  }
+}
